@@ -92,6 +92,14 @@ This data enables biodiversity analysis and trend-based ecological insights.
 
 ---
 
+## 🔗 Live Dashboard
+
+👉 **[Live Dashboard](https://app.powerbi.com/groups/me/reports/e0e968f0-697c-434c-a01f-8342950e3db8/86236c95dfa8aea9d243?experience=power-bi)**
+
+The live Power BI dashboard allows users to interact with filters, explore species-level insights, and analyze trends dynamically.
+
+---
+
 ## 🚀 Project Outcome
 
 This project showcases:
@@ -100,4 +108,8 @@ This project showcases:
 * Effective **data storytelling using Power BI**
 * Ability to translate ecological data into **actionable insights**
 
+It is well-suited for **Data Analyst, BI Analyst, Research Analyst, and Environmental Analytics roles**.
+
 ---
+
+
